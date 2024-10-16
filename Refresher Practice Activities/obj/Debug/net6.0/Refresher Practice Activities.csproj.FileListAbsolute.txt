@@ -1,0 +1,14 @@
+C:\Visual Studio 2022\Projects\REFRESHER(.Net Dev journey\Refresher Practice Activities\Refresher Practice Activities\bin\Debug\net6.0\Refresher Practice Activities.exe
+C:\Visual Studio 2022\Projects\REFRESHER(.Net Dev journey\Refresher Practice Activities\Refresher Practice Activities\bin\Debug\net6.0\Refresher Practice Activities.deps.json
+C:\Visual Studio 2022\Projects\REFRESHER(.Net Dev journey\Refresher Practice Activities\Refresher Practice Activities\bin\Debug\net6.0\Refresher Practice Activities.runtimeconfig.json
+C:\Visual Studio 2022\Projects\REFRESHER(.Net Dev journey\Refresher Practice Activities\Refresher Practice Activities\bin\Debug\net6.0\Refresher Practice Activities.dll
+C:\Visual Studio 2022\Projects\REFRESHER(.Net Dev journey\Refresher Practice Activities\Refresher Practice Activities\bin\Debug\net6.0\Refresher Practice Activities.pdb
+C:\Visual Studio 2022\Projects\REFRESHER(.Net Dev journey\Refresher Practice Activities\Refresher Practice Activities\obj\Debug\net6.0\Refresher Practice Activities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022\Projects\REFRESHER(.Net Dev journey\Refresher Practice Activities\Refresher Practice Activities\obj\Debug\net6.0\Refresher Practice Activities.AssemblyInfoInputs.cache
+C:\Visual Studio 2022\Projects\REFRESHER(.Net Dev journey\Refresher Practice Activities\Refresher Practice Activities\obj\Debug\net6.0\Refresher Practice Activities.AssemblyInfo.cs
+C:\Visual Studio 2022\Projects\REFRESHER(.Net Dev journey\Refresher Practice Activities\Refresher Practice Activities\obj\Debug\net6.0\Refresher Practice Activities.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022\Projects\REFRESHER(.Net Dev journey\Refresher Practice Activities\Refresher Practice Activities\obj\Debug\net6.0\Refresher Practice Activities.dll
+C:\Visual Studio 2022\Projects\REFRESHER(.Net Dev journey\Refresher Practice Activities\Refresher Practice Activities\obj\Debug\net6.0\refint\Refresher Practice Activities.dll
+C:\Visual Studio 2022\Projects\REFRESHER(.Net Dev journey\Refresher Practice Activities\Refresher Practice Activities\obj\Debug\net6.0\Refresher Practice Activities.pdb
+C:\Visual Studio 2022\Projects\REFRESHER(.Net Dev journey\Refresher Practice Activities\Refresher Practice Activities\obj\Debug\net6.0\Refresher Practice Activities.genruntimeconfig.cache
+C:\Visual Studio 2022\Projects\REFRESHER(.Net Dev journey\Refresher Practice Activities\Refresher Practice Activities\obj\Debug\net6.0\ref\Refresher Practice Activities.dll
